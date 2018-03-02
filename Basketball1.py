@@ -25,3 +25,7 @@ Team2 = random.randint(minScore, maxScore)
 
 # print scores
 print("SCORE: Team1 - " + str(Team1) + " Team2 - " + str(Team2))
+
+
+
+
