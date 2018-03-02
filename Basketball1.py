@@ -8,22 +8,20 @@ import random
 '''
 Steps:
 
-1) Create team variables. : Complete
-2) Assign random int to team variables. : Complete
-    - limit scores between 98 and 121
-3) When program runs, print team scores.
+1) Create team variables.
+2) Create max and min score values. (min 98 - max 122)
+3) Assign random int to team variables.
+4) When program runs, print team scores.
 
 '''
 
+# create max and min scores
+maxScore = 122
+minScore = 98
+
 # initialize team variables
-Team1 = random.randint(98, 121)
-Team2 = random.randint(98, 121)
+Team1 = random.randint(minScore, maxScore)
+Team2 = random.randint(minScore, maxScore)
 
 # print scores
 print("SCORE: Team1 - " + str(Team1) + " Team2 - " + str(Team2))
-
-
-
-
-
-
