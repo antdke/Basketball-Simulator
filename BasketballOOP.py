@@ -1,3 +1,7 @@
+# Anthony Dike 
+# March 15, 2018
+
+
 class Player:
 
 	def __init__(self, first, last, height, weight, agility, strength):
