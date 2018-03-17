@@ -18,7 +18,6 @@ class Player:
 
 
 	def off_rating(self, dribble, jumpshot, layup, assist): 
-		# right now itll be a static method cuz idk how to incorporate 
 		# info with rating; but rating will be average of skill points.
 		# Rating will be 1 - 10 for simplicity right now
 		self.dribble = dribble
