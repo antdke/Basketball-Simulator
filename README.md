@@ -1,3 +1,10 @@
-# Basketball-Simulator
-This repository contains the versions of a program that will eventually simulate basketball games and eventually an entire basketball league like NBA 2k.
-Each version will be written in Python and Java.
+# Basketball-Simulator-in-Python
+This will eventually by an NBA 2k-like basketball simulator.
+This will be a 3 vs 3 game.
+
+The user will be able to:
+1) Pick a location for the basketball court
+2) Pick the players they want for their team
+3) Then either simulate the entire game or play through it.
+
+THIS IS WRITTEN IN PYTHON
